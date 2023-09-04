@@ -1,1 +1,2 @@
-Welcome to Lucid [ Community/ModMenu ]
+#Welcome to Lucid [ Community/ModMenu ]
+Be ready soon :)
